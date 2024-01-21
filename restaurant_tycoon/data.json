@@ -1,0 +1,172 @@
+{
+    "663543937197146122": {
+        "name": "Broc's Perfect Restaurant",
+        "owner": "Broc#0004",
+        "stars": 3,
+        "location": "village",
+        "day": 22,
+        "menu": {
+            "Filet Mignon": {
+                "category": "entree",
+                "price": 34,
+                "components": "filet_butterbasted"
+            },
+            "Ribeye": {
+                "category": "entree",
+                "price": 37,
+                "components": "ribeye_butterbasted"
+            }
+        },
+        "level": 0,
+        "exp": 0,
+        "created_at": "2021-08-14",
+        "cash": 6599,
+        "inv": [
+            "prep/mix_counter",
+            "stove",
+            "pan",
+            "refrigerator",
+            "oven"
+        ],
+        "icon": "https://media.discordapp.net/attachments/875987547300454430/877696161421602856/Screen_Shot_2021-08-06_at_9.04.09_AM.png"
+    },
+    "test": {
+        "name": "Broc's Test Kitchen",
+        "owner": "Broc#0004",
+        "stars": 5,
+        "location": "beach",
+        "day": 93,
+        "menu": {
+            "Filet Mignon": {
+                "category": "entree",
+                "price": 35,
+                "components": "filet_butterbasted"
+            },
+            "Apple Pie": {
+                "category": "dessert",
+                "price": 18,
+                "components": "applepie"
+            },
+            "Ribeye": {
+                "category": "entree",
+                "price": 37,
+                "components": "ribeye_butterbasted"
+            }
+        },
+        "level": 0,
+        "exp": 0,
+        "created_at": "2021-08-14",
+        "cash": 132394,
+        "inv": [
+            "prep/mix_counter",
+            "stove",
+            "pan"
+        ],
+        "icon": "https://media.discordapp.net/attachments/875987547300454430/877696161421602856/Screen_Shot_2021-08-06_at_9.04.09_AM.png"
+    },
+    "538792054348709902": {
+        "name": "limey tacos",
+        "owner": "Grand#7946",
+        "stars": 3,
+        "location": "village",
+        "day": 0,
+        "menu": {},
+        "level": 0,
+        "exp": 0,
+        "created_at": "2021-08-17",
+        "cash": 0,
+        "inv": [
+            "prep/mix_counter",
+            "stove",
+            "pan"
+        ],
+        "icon": "https://media.discordapp.net/attachments/613719994286735360/877323119793143859/aaaa.png"
+    },
+    "693289293753483346": {
+        "name": "Bam's Restauran't",
+        "owner": "bambangan78#7887",
+        "stars": 3,
+        "location": "village",
+        "day": 9,
+        "menu": {
+            "Fettuccine Alfredo": {
+                "category": "entree",
+                "price": 16.0,
+                "components": "fettuccine_alfredo"
+            },
+            "Spaghetti and Meatballs": {
+                "category": "entree",
+                "price": 11.0,
+                "components": "spaghetti_marinarawmeatball"
+            }
+        },
+        "level": 0,
+        "exp": 0,
+        "created_at": "2021-08-17",
+        "cash": 2197.0,
+        "inv": [
+            "prep/mix_counter",
+            "stove",
+            "pan"
+        ],
+        "icon": "https://media.discordapp.net/attachments/819260180750794873/877325008945426462/ezgif.com-gif-maker.gif"
+    },
+    "732776673702969436": {
+        "name": "Cookie's resting",
+        "owner": "Sided cookie#4003",
+        "stars": 3,
+        "location": "village",
+        "day": 0,
+        "menu": {
+            "Cookie": {
+                "category": "dessert",
+                "price": 10,
+                "components": "spaghetti_marinarawmeatball"
+            }
+        },
+        "level": 0,
+        "exp": 0,
+        "created_at": "2021-08-18",
+        "cash": 0,
+        "inv": [
+            "prep/mix_counter",
+            "stove",
+            "pan"
+        ],
+        "icon": "https://media.discordapp.net/attachments/877701233509539854/877701786453037096/pfp.png"
+    },
+    "807386600337440839": {
+        "name": "Apple's",
+        "owner": "Apples#6776",
+        "menu": {
+            "Alfredo": {
+                "category": "entree",
+                "price": 12.0,
+                "components": "fettuccine_alfredo"
+            },
+            "Spaghetti & Meatballs": {
+                "category": "entree",
+                "price": 10.0,
+                "components": "spaghetti_marinarawmeatball"
+            },
+            "Ribeye": {
+                "category": "entree",
+                "price": 30.0,
+                "components": "ribeye_butterbasted"
+            }
+        },
+        "level": 0,
+        "exp": 0,
+        "created_at": "2021-08-21",
+        "cash": 11099.0,
+        "inv": [
+            "prep/mix_counter",
+            "stove",
+            "pan"
+        ],
+        "icon": "https://media.discordapp.net/attachments/739513757272899696/878449144031748096/discord-avatar-512.png",
+        "stars": 3,
+        "location": "village",
+        "day": 30
+    }
+}
